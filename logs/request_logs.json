@@ -1,0 +1,464 @@
+[
+  {
+    "timestamp": "2023-11-24T07:23:16.900Z",
+    "method": "GET",
+    "path": "/api/weather/rosario"
+  },
+  {
+    "timestamp": "2023-11-24T07:23:26.896Z",
+    "method": "GET",
+    "path": "/api/weather/rosario"
+  },
+  {
+    "timestamp": "2023-11-24T07:23:28.010Z",
+    "method": "GET",
+    "path": "/api/weather/rosario"
+  },
+  {
+    "timestamp": "2023-11-24T07:23:29.351Z",
+    "method": "GET",
+    "path": "/api/weather/rosario"
+  },
+  {
+    "timestamp": "2023-11-24T09:06:47.030Z",
+    "method": "GET",
+    "path": "/weather/corrientes"
+  },
+  {
+    "timestamp": "2023-11-24T09:06:57.359Z",
+    "method": "GET",
+    "path": "/weather/cordoba"
+  },
+  {
+    "timestamp": "2023-11-24T09:07:49.157Z",
+    "method": "GET",
+    "path": "/weather/london"
+  },
+  {
+    "timestamp": "2023-11-24T14:42:32.080Z",
+    "method": "GET",
+    "path": "/api/ping"
+  },
+  {
+    "timestamp": "2023-11-24T18:24:05.432Z",
+    "method": "GET",
+    "path": "/api/weather/rosario"
+  },
+  {
+    "timestamp": "2023-11-24T18:24:20.195Z",
+    "method": "GET",
+    "path": "/api/ping"
+  },
+  {
+    "timestamp": "2023-11-24T18:24:28.839Z",
+    "method": "GET",
+    "path": "/ping"
+  },
+  {
+    "timestamp": "2023-11-24T18:25:15.724Z",
+    "method": "GET",
+    "path": "/api/logs/timestamp"
+  },
+  {
+    "timestamp": "2023-11-26T17:29:20.256Z",
+    "method": "GET",
+    "path": "/api/weather/cordoba"
+  },
+  {
+    "timestamp": "2023-11-26T17:35:42.764Z",
+    "method": "GET",
+    "path": "/api/weather/cordoba"
+  },
+  {
+    "timestamp": "2023-11-26T17:36:09.962Z",
+    "method": "GET",
+    "path": "/api/weather/cordoba"
+  },
+  {
+    "timestamp": "2023-11-26T17:42:33.720Z",
+    "method": "GET",
+    "path": "/api/weather/cordoba",
+    "params": {}
+  },
+  {
+    "timestamp": "2023-11-26T17:42:53.566Z",
+    "method": "GET",
+    "path": "/api/weather/cordoba",
+    "params": {}
+  },
+  {
+    "timestamp": "2023-11-26T17:45:31.899Z",
+    "method": "GET",
+    "path": "/api/weather/cordoba"
+  },
+  {
+    "timestamp": "2023-11-26T17:45:50.142Z",
+    "method": "GET",
+    "path": "/api/weather/cordoba"
+  },
+  {
+    "timestamp": "2023-11-26T19:45:03.466Z",
+    "method": "GET",
+    "path": "/api/weather/cordoba"
+  },
+  {
+    "timestamp": "2023-11-26T20:22:48.282Z",
+    "method": "GET",
+    "path": "/api/weather/cordoba"
+  },
+  {
+    "timestamp": "2023-11-26T20:31:46.999Z",
+    "method": "GET",
+    "path": "/api/weather/cordoba"
+  },
+  {
+    "timestamp": "2023-11-26T20:32:02.418Z",
+    "method": "GET",
+    "path": "/api/weather/sanpablo"
+  },
+  {
+    "timestamp": "2023-11-26T20:35:08.342Z",
+    "method": "GET",
+    "path": "/api/weather/rosario"
+  },
+  {
+    "timestamp": "2023-11-26T20:38:22.650Z",
+    "method": "GET",
+    "path": "/api/weather/rosario"
+  },
+  {
+    "timestamp": "2023-11-26T20:40:07.300Z",
+    "method": "GET",
+    "path": "/api/weather/rosario"
+  },
+  {
+    "timestamp": "2023-11-26T20:40:14.874Z",
+    "method": "GET",
+    "path": "/api/weather/san%20pablo"
+  },
+  {
+    "timestamp": "2023-11-26T20:40:35.666Z",
+    "method": "GET",
+    "path": "/api/weather/cairo"
+  },
+  {
+    "timestamp": "2023-11-26T20:40:45.905Z",
+    "method": "GET",
+    "path": "/api/weather/tokyo"
+  },
+  {
+    "timestamp": "2023-11-26T20:43:23.609Z",
+    "method": "GET",
+    "path": "/api/weather/tokyo"
+  },
+  {
+    "timestamp": "2023-11-26T20:43:40.144Z",
+    "method": "GET",
+    "path": "/api/weather/cordoba"
+  },
+  {
+    "timestamp": "2023-11-26T20:43:46.340Z",
+    "method": "GET",
+    "path": "/api/weather/cairo"
+  },
+  {
+    "timestamp": "2023-11-26T20:43:54.220Z",
+    "method": "GET",
+    "path": "/api/weather/rosario"
+  },
+  {
+    "timestamp": "2023-11-26T20:43:58.564Z",
+    "method": "GET",
+    "path": "/api/weather/london"
+  },
+  {
+    "timestamp": "2023-11-26T20:54:15.813Z",
+    "method": "GET",
+    "path": "/api/api/logs"
+  },
+  {
+    "timestamp": "2023-11-26T20:54:22.493Z",
+    "method": "GET",
+    "path": "/api/logs"
+  },
+  {
+    "timestamp": "2023-11-26T20:55:01.248Z",
+    "method": "GET",
+    "path": "/api/logs/dates"
+  },
+  {
+    "timestamp": "2023-11-26T20:58:13.259Z",
+    "method": "GET",
+    "path": "/api/logs/method"
+  },
+  {
+    "timestamp": "2023-11-26T20:58:16.055Z",
+    "method": "GET",
+    "path": "/api/logs/method"
+  },
+  {
+    "timestamp": "2023-11-26T20:59:02.949Z",
+    "method": "GET",
+    "path": "/api/weather/london"
+  },
+  {
+    "timestamp": "2023-11-26T20:59:39.688Z",
+    "method": "GET",
+    "path": "/api/log/method"
+  },
+  {
+    "timestamp": "2023-11-26T21:00:07.435Z",
+    "method": "GET",
+    "path": "/api/log/dates"
+  },
+  {
+    "timestamp": "2023-11-26T21:00:13.619Z",
+    "method": "GET",
+    "path": "/api/log/dates"
+  },
+  {
+    "timestamp": "2023-11-26T21:02:42.746Z",
+    "method": "GET",
+    "path": "/api/log/dates"
+  },
+  {
+    "timestamp": "2023-11-26T21:03:17.544Z",
+    "method": "GET",
+    "path": "/api/weather/barcelona"
+  },
+  {
+    "timestamp": "2023-11-26T21:03:44.761Z",
+    "method": "GET",
+    "path": "/api/log/dates"
+  },
+  {
+    "timestamp": "2023-11-26T21:03:50.298Z",
+    "method": "GET",
+    "path": "/api/log/dates"
+  },
+  {
+    "timestamp": "2023-11-26T21:05:39.317Z",
+    "method": "GET",
+    "path": "/api/log/dates"
+  },
+  {
+    "timestamp": "2023-11-26T21:07:15.714Z",
+    "method": "GET",
+    "path": "/api/log/dates"
+  },
+  {
+    "timestamp": "2023-11-26T21:07:21.200Z",
+    "method": "GET",
+    "path": "/api/log/dates"
+  },
+  {
+    "timestamp": "2023-11-26T21:08:22.447Z",
+    "method": "GET",
+    "path": "/api/log/dates"
+  },
+  {
+    "timestamp": "2023-11-26T21:08:59.023Z",
+    "method": "GET",
+    "path": "/api/log/dates"
+  },
+  {
+    "timestamp": "2023-11-26T21:09:23.385Z",
+    "method": "GET",
+    "path": "/api/log/dates"
+  },
+  {
+    "timestamp": "2023-11-26T21:10:18.432Z",
+    "method": "GET",
+    "path": "/api/log/dates"
+  },
+  {
+    "timestamp": "2023-11-26T21:14:27.148Z",
+    "method": "GET",
+    "path": "/api/log/dates"
+  },
+  {
+    "timestamp": "2023-11-26T21:14:28.978Z",
+    "method": "GET",
+    "path": "/api/log/dates"
+  },
+  {
+    "timestamp": "2023-11-26T21:14:30.439Z",
+    "method": "GET",
+    "path": "/api/log/dates"
+  },
+  {
+    "timestamp": "2023-11-26T21:14:31.809Z",
+    "method": "GET",
+    "path": "/api/log/dates"
+  },
+  {
+    "timestamp": "2023-11-26T21:14:58.479Z",
+    "method": "GET",
+    "path": "/api/log/dates"
+  },
+  {
+    "timestamp": "2023-11-26T21:15:06.473Z",
+    "method": "GET",
+    "path": "/api/log/dates"
+  },
+  {
+    "timestamp": "2023-11-26T21:15:07.639Z",
+    "method": "GET",
+    "path": "/api/log/dates"
+  },
+  {
+    "timestamp": "2023-11-26T21:15:08.269Z",
+    "method": "GET",
+    "path": "/api/log/dates"
+  },
+  {
+    "timestamp": "2023-11-26T21:15:08.834Z",
+    "method": "GET",
+    "path": "/api/log/dates"
+  },
+  {
+    "timestamp": "2023-11-26T21:15:09.278Z",
+    "method": "GET",
+    "path": "/api/log/dates"
+  },
+  {
+    "timestamp": "2023-11-26T21:15:09.685Z",
+    "method": "GET",
+    "path": "/api/log/dates"
+  },
+  {
+    "timestamp": "2023-11-26T21:15:10.359Z",
+    "method": "GET",
+    "path": "/api/log/dates"
+  },
+  {
+    "timestamp": "2023-11-26T21:24:14.648Z",
+    "method": "GET",
+    "path": "/api/weather/london"
+  },
+  {
+    "timestamp": "2023-11-26T21:24:35.405Z",
+    "method": "GET",
+    "path": "/api/weather/barceloa"
+  },
+  {
+    "timestamp": "2023-11-26T21:24:41.785Z",
+    "method": "GET",
+    "path": "/api/weather/madrid"
+  },
+  {
+    "timestamp": "2023-11-26T21:24:47.021Z",
+    "method": "GET",
+    "path": "/api/weather/barcelona"
+  },
+  {
+    "timestamp": "2023-11-26T21:24:51.234Z",
+    "method": "GET",
+    "path": "/api/weather/paris"
+  },
+  {
+    "timestamp": "2023-11-26T21:24:54.050Z",
+    "method": "GET",
+    "path": "/api/weather/roma"
+  },
+  {
+    "timestamp": "2023-11-26T21:24:58.779Z",
+    "method": "GET",
+    "path": "/api/weather/tokyo"
+  },
+  {
+    "timestamp": "2023-11-26T21:25:02.270Z",
+    "method": "GET",
+    "path": "/api/weather/cairo"
+  },
+  {
+    "timestamp": "2023-11-26T21:25:06.900Z",
+    "method": "GET",
+    "path": "/api/weather/cordoba"
+  },
+  {
+    "timestamp": "2023-11-26T21:25:28.472Z",
+    "method": "GET",
+    "path": "/api/log/dates"
+  },
+  {
+    "timestamp": "2023-11-26T21:31:49.109Z",
+    "method": "GET",
+    "path": "/api/log/dates"
+  },
+  {
+    "timestamp": "2023-11-26T21:31:53.831Z",
+    "method": "GET",
+    "path": "/api/log/dates"
+  },
+  {
+    "timestamp": "2023-11-26T21:31:54.703Z",
+    "method": "GET",
+    "path": "/api/log/dates"
+  },
+  {
+    "timestamp": "2023-11-26T21:31:56.129Z",
+    "method": "GET",
+    "path": "/api/log/dates"
+  },
+  {
+    "timestamp": "2023-11-26T21:51:21.165Z",
+    "method": "GET",
+    "path": "/api/weather/barcelona"
+  },
+  {
+    "timestamp": "2023-11-26T21:51:31.004Z",
+    "method": "GET",
+    "path": "/api/weather/rio"
+  },
+  {
+    "timestamp": "2023-11-26T21:52:30.148Z",
+    "method": "GET",
+    "path": "/api/api/log/ByDateRange"
+  },
+  {
+    "timestamp": "2023-11-26T21:52:35.917Z",
+    "method": "GET",
+    "path": "/api/log/ByDateRange"
+  },
+  {
+    "timestamp": "2023-11-26T21:52:38.168Z",
+    "method": "GET",
+    "path": "/api/log/ByDateRange"
+  },
+  {
+    "timestamp": "2023-11-26T21:52:38.837Z",
+    "method": "GET",
+    "path": "/api/log/ByDateRange"
+  },
+  {
+    "timestamp": "2023-11-26T22:07:26.173Z",
+    "method": "GET",
+    "path": "/api/weather/rio"
+  },
+  {
+    "timestamp": "2023-11-26T22:08:16.400Z",
+    "method": "GET",
+    "path": "/api/weather/rio"
+  },
+  {
+    "timestamp": "2023-11-26T22:13:05.077Z",
+    "method": "GET",
+    "path": "/api/api/log/ByDateRange"
+  },
+  {
+    "timestamp": "2023-11-26T22:13:08.448Z",
+    "method": "GET",
+    "path": "/api/api/log/ByDateRange"
+  },
+  {
+    "timestamp": "2023-11-26T22:13:14.450Z",
+    "method": "GET",
+    "path": "/api/log/ByDateRange"
+  },
+  {
+    "timestamp": "2023-11-26T22:59:32.130Z",
+    "method": "GET",
+    "path": "/api/log/ByDateRange"
+  }
+]
