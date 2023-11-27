@@ -475,5 +475,105 @@
     "timestamp": "2023-11-27T00:16:33.860Z",
     "method": "GET",
     "path": "/api/weather/tokyo"
+  },
+  {
+    "timestamp": "2023-11-27T19:24:07.041Z",
+    "method": "GET",
+    "path": "/api/weather/London"
+  },
+  {
+    "timestamp": "2023-11-27T19:24:11.993Z",
+    "method": "GET",
+    "path": "/api/weather/InvalidCity"
+  },
+  {
+    "timestamp": "2023-11-27T19:26:00.585Z",
+    "method": "GET",
+    "path": "/api/weather/cordoba"
+  },
+  {
+    "timestamp": "2023-11-27T19:26:05.264Z",
+    "method": "GET",
+    "path": "/api/weather/InvalidCity"
+  },
+  {
+    "timestamp": "2023-11-27T19:29:52.106Z",
+    "method": "GET",
+    "path": "/api/weather/tokyo"
+  },
+  {
+    "timestamp": "2023-11-27T22:10:58.703Z",
+    "method": "GET",
+    "path": "/api/weather/cordoba"
+  },
+  {
+    "timestamp": "2023-11-27T22:11:16.060Z",
+    "method": "GET",
+    "path": "/api/weather/rosario"
+  },
+  {
+    "timestamp": "2023-11-27T22:11:26.688Z",
+    "method": "GET",
+    "path": "/api/weather/tokyo"
+  },
+  {
+    "timestamp": "2023-11-27T22:11:36.846Z",
+    "method": "GET",
+    "path": "/api/weather/buenosaires"
+  },
+  {
+    "timestamp": "2023-11-27T22:13:14.611Z",
+    "method": "GET",
+    "path": "/api/weather/cordoba"
+  },
+  {
+    "timestamp": "2023-11-27T22:13:19.109Z",
+    "method": "GET",
+    "path": "/api/weather/InvalidCity"
+  },
+  {
+    "timestamp": "2023-11-27T22:17:38.552Z",
+    "method": "GET",
+    "path": "/api/weather/cordoba"
+  },
+  {
+    "timestamp": "2023-11-27T22:17:41.701Z",
+    "method": "GET",
+    "path": "/api/weather/InvalidCity"
+  },
+  {
+    "timestamp": "2023-11-27T22:37:22.340Z",
+    "method": "GET",
+    "path": "/api/weather/cordoba"
+  },
+  {
+    "timestamp": "2023-11-27T22:37:27.289Z",
+    "method": "GET",
+    "path": "/api/weather/InvalidCity"
+  },
+  {
+    "timestamp": "2023-11-27T22:38:26.992Z",
+    "method": "GET",
+    "path": "/api/weather/tokyo"
+  },
+  {
+    "timestamp": "2023-11-27T22:39:34.419Z",
+    "method": "GET",
+    "path": "/api/weather/cordoba"
+  },
+  {
+    "timestamp": "2023-11-27T22:39:38.190Z",
+    "method": "GET",
+    "path": "/api/weather/InvalidCity"
+  },
+  {
+    "timestamp": "2023-11-27T22:40:30.294Z",
+    "method": "GET",
+    "path": "/api/weather/cordoba"
+  },
+  {
+    "timestamp": "2023-11-27T22:40:33.481Z",
+    "method": "GET",
+    "path": "/api/weather/InvalidCity"
   }
 ]

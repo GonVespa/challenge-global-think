@@ -41,8 +41,6 @@ export async function getLogsByDateRange(req: Request, res: Response): Promise<v
       return;
     }
 
-    console.log(startDate)
-    console.log(endDate)
     const logs = await logService.getLogsByDateRange(new Date(startDate as string), new Date(endDate as string));
 
     res.json(logs);
