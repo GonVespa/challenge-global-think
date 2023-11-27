@@ -460,5 +460,20 @@
     "timestamp": "2023-11-26T22:59:32.130Z",
     "method": "GET",
     "path": "/api/log/ByDateRange"
+  },
+  {
+    "timestamp": "2023-11-27T00:16:15.112Z",
+    "method": "GET",
+    "path": "/api/weather/cordoba"
+  },
+  {
+    "timestamp": "2023-11-27T00:16:24.282Z",
+    "method": "GET",
+    "path": "/api/weather/tpkyo"
+  },
+  {
+    "timestamp": "2023-11-27T00:16:33.860Z",
+    "method": "GET",
+    "path": "/api/weather/tokyo"
   }
 ]

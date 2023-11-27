@@ -1,3 +1,13 @@
+# Mi Proyecto
+
+Bienvenido a mi proyecto. Aquí encontrarás una API que proporciona información sobre Datos Climaticos.
+
+## Documentación de la API
+
+La documentación de la API se realiza utilizando Swagger. Puedes explorar la documentación de la API visitando la interfaz de Swagger.
+
+**Swagger UI:** [Enlace a Swagger UI](http://localhost:puerto/api-docs)
+
 ## Instalación
 
 1. Clona el repositorio.
