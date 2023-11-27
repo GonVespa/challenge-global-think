@@ -5,10 +5,12 @@ import logRoutes from './routes/logRoutes'
 import { loggerMiddleware } from './middlewares/loggerMiddleware'
 import { NextFunction, Request, Response } from 'express'
 import { dbConnect } from '../config/mongo' 
+import { setupSwagger } from '../config/swagger'
 
 const app = express()
 const PORT = process.env.PORT || 3000
 
+setupSwagger(app)
 // Middleware para registrar solicitudes
 app.use(loggerMiddleware)
 
